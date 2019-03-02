@@ -3,9 +3,9 @@ BrewsOfTampa
 
 User-driven brewery map. 
 
-![What it looks like now](https://im.ezgif.com/tmp/ezgif-1-d8174b0b9bd1.gif)
+![What it looks like now](https://s2.gifyu.com/images/167b52d3e5b7bc543.gif)
 
 Add a brewery
 =======
 
-![What it looks like now](https://im.ezgif.com/tmp/ezgif-1-4686ad8d4fbd.gif)
+![What it looks like now](https://s2.gifyu.com/images/2b8e8b3cf9f62f78a.gif)
